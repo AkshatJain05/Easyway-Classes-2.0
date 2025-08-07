@@ -50,7 +50,7 @@ function HeroSection() {
           <div className="flex justify-center items-center ">
 
             <div
-                className='h-60 w-60  md:h-100 md:w-100 bg-slate-100 shadow-2xl  shadow-white rounded-full  opacity-60 blur-2xl absolute  -z-1 object-contain'>
+                className='h-60 w-60  md:h-100 md:w-100 bg-slate-100 shadow-2xl  shadow-white rounded-full  opacity-55 blur-2xl absolute  -z-1 object-contain'>
               </div> 
 
             <img
