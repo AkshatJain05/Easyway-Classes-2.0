@@ -29,7 +29,7 @@ const ScrollReveal = ({ children, from = "left", delay = 0 }) => {
       ref={ref}
       initial={directions[from]}
       animate={visible ? { x: 0, y: 0, opacity: 1 } : {}}
-      transition={{ duration: 0.8, delay, ease: "easeOut" }}
+      transition={{ duration: 0.9, delay, ease: "easeOut" }}
     >
       {children}
     </motion.div>
