@@ -4,7 +4,7 @@ import { NavLink } from 'react-router-dom';
 
 function Footer() {
     return (
-        <ScrollReveal from="bottom">
+        
         <footer className="w-full bg-gradient-to-b from-slate-950 to-slate-900 text-white border-t-1" >
             <div className=" px-4 py-12 flex flex-col items-center">
                 <div className="flex items-center space-x-3 mb-3">
@@ -35,7 +35,7 @@ function Footer() {
         </div>
             </div>
         </footer>
-        </ScrollReveal>
+        
     );
 };
 
