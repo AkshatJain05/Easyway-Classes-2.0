@@ -1,5 +1,5 @@
 import ScrollReveal from "./ScllorAnimation";
-import chatBot from "../assets/ChatBot.png"
+import chatBot from "../assets/chatBot.png"
 import codeAnalyzer from "../assets/codeAnalyzer.png"
 import todo from "../assets/todo.png"
 import chatWithMentor from "../assets/chatWithTeacher.png"
